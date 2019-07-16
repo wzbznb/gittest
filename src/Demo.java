@@ -3,10 +3,15 @@ public class Demo {
 	public static void main(String[] args) {
 		System.out.println(123);
 		System.out.println(456);
+
 		System.out.println(789);
 		System.out.println("wzb");
 		System.out.println("znb");
-		System.out.println("ddd");
+
+		System.out.println("yw");
+		System.out.println("sx");
+		System.out.println("yy");
+
 		
 	}
 
