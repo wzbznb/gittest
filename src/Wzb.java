@@ -12,6 +12,6 @@ public class Wzb {
 		System.out.println("115");
 		System.out.println("116");
 		System.out.println("117");
-		System.out.println("144");
+		System.out.println("133");
 	}
 }
