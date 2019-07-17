@@ -11,6 +11,10 @@ public class Demo {
 		System.out.println("yw");
 		System.out.println("sx");
 		System.out.println("yy");
+		
+		System.out.println("test1");
+		System.out.println("test2");
+		System.out.println("test3");
 
 		
 	}
