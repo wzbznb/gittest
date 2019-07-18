@@ -3,7 +3,7 @@ public class Hcj {
 	public static void main(String[] args) {
 		System.out.println("hcj");
 		System.out.println("wrnd");
-		System.out.println("njsyglj");
+		System.out.println("hcjsygxsd");
 	}
 
 }
