@@ -7,6 +7,8 @@ public class Demo {
 		System.out.println("sx");
 		System.out.println("yy");
 		System.out.println("wszq");
+		System.out.println("demo");
+		System.out.println("2056");
 		
 	}
 

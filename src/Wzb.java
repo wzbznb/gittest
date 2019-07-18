@@ -8,5 +8,11 @@ public class Wzb {
 		System.out.println("0054");
 		System.out.println("0056");
 		System.out.println("113");
+		System.out.println("115");
+		System.out.println("116");
+		System.out.println("117");
+		System.out.println("133");
+		System.out.println("2111");
+		System.out.println("2122");
 	}
 }
