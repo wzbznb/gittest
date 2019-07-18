@@ -12,7 +12,10 @@ public class Demo {
 		System.out.println("test1");
 		System.out.println("test2");
 		System.out.println("test3");
-
+		System.out.println("yy");
+		System.out.println("wszq");
+		System.out.println("demo");
+		System.out.println("2056");
 		
 	}
 
